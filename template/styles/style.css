@@ -1,10 +1,7 @@
 /* BASIC */
-
-html {
-    background-color: #56baed;
-  }
   
   body {
+    background-color: lightblue;
     font-family: "Poppins", sans-serif;
     height: 100vh;
   }
